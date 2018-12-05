@@ -1,2 +1,2 @@
 # log
-log package for internal use
+golang log package for internal use
